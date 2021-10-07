@@ -5,6 +5,8 @@ import Info from "./Info";
 const MainSection = () => {
   const [input, setinput] = useState("");
 
+
+
   return (
     <>
       <div className="flex">
@@ -14,7 +16,7 @@ const MainSection = () => {
               if (input === "") {
                 return val;
               } else if (val.name.toLocaleLowerCase().includes(input.toLocaleLowerCase())){
-                  return val;
+                return val;
               }
             }).map((items) => {
               return (

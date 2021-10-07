@@ -11,4 +11,7 @@ Firstly I created a data.json and put some data in order to show them in the fro
 
 I have put One functionality as we can Search by user name in order to see which user is associated with which albums and then retrive back that imformation on the screen.
 
-I have done this in 1.5 hours approx. 
+Live Url Link:
+https://mastercardtestchallege.web.app
+
+I have done this in 1.5 hours approx.

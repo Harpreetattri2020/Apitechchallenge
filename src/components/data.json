@@ -5,7 +5,7 @@
          "title":"Harry Potter Series",
         "email": "harrypotter123@gmail.com",
         "website":"https://www.wizardingworld.com",
-        "img":"https://via.placeholder.com/600/92c952"
+        "img":"https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2021/01/30155600/harry-potter-and-the-sorcerers-stone-600x314.jpg"
          
       },
       {
@@ -24,7 +24,7 @@
         "email": "007@gmail.com",
         "website":"https://www.007.com/"
         ,
-        "img":"https://via.placeholder.com/600/92c952"
+        "img":"https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/11/04133712/waterfall.jpg"
       },
       {
         "id": 4,
@@ -33,8 +33,8 @@
         "email": "Harpreetatri@gmail.com",
         "website":"https://reactjs.org/"
         ,
-        "img":"https://via.placeholder.com/600/92c952"
-      }
+        "img":"https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/11/04133712/waterfall.jpg"   
+       }
       
 
             
