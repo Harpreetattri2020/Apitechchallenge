@@ -1,0 +1,42 @@
+ [
+      {
+        "id": 1,
+        "name": "harry potter",
+         "title":"harry potter",
+        "email": "harrypotter123@gmail.com",
+        "website":"https://www.wizardingworld.com",
+        "img":"https://via.placeholder.com/600/92c952"
+         
+      },
+      {
+        "id": 2,
+        "name": "Covid 19",
+         "title":"World",
+        "email": "world123@gmail.com",
+        "website":"https://www2.hse.ie/conditions/covid19/"
+        ,
+        "img":"https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 3,
+        "name": "james bond",
+         "title":"007",
+        "email": "007@gmail.com",
+        "website":"https://www.007.com/"
+        ,
+        "img":"https://via.placeholder.com/600/92c952"
+      },
+      {
+        "id": 4,
+        "name": "harpreet",
+         "title":"interview challenge",
+        "email": "Harpreetatri@gmail.com",
+        "website":"https://reactjs.org/"
+        ,
+        "img":"https://via.placeholder.com/600/92c952"
+      }
+      
+
+            
+    ]
+  
