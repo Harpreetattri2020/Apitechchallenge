@@ -1,4 +1,5 @@
 I design this application in react version"17.0.2"  and intializaing my project using npx create-react-app by using Node version "v14.18.0".
+Used Tailwind css  for designing the pages. 
 IN order to run this Application Firstly download the source code from github link and then in the terminal write the command "npm install" in order to install all the dependencies that are used in the project. 
 
 In order to Run this project write the command in the terminal "npm start"

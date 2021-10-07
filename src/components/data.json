@@ -2,7 +2,7 @@
       {
         "id": 1,
         "name": "harry potter",
-         "title":"harry potter",
+         "title":"Harry Potter Series",
         "email": "harrypotter123@gmail.com",
         "website":"https://www.wizardingworld.com",
         "img":"https://via.placeholder.com/600/92c952"
@@ -11,7 +11,7 @@
       {
         "id": 2,
         "name": "Covid 19",
-         "title":"World",
+         "title":"World effects",
         "email": "world123@gmail.com",
         "website":"https://www2.hse.ie/conditions/covid19/"
         ,
@@ -19,7 +19,7 @@
       },
       {
         "id": 3,
-        "name": "james bond",
+        "name": "merry",
          "title":"007",
         "email": "007@gmail.com",
         "website":"https://www.007.com/"
@@ -28,7 +28,7 @@
       },
       {
         "id": 4,
-        "name": "harpreet",
+        "name": "harpreet attri",
          "title":"interview challenge",
         "email": "Harpreetatri@gmail.com",
         "website":"https://reactjs.org/"
